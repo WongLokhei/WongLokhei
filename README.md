@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @WongLokhei
 - 👀 I’m interested in computer science,finance and economics.
 - 🌱 I’m currently learning CSAPP,data structure and computer networking.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:473491890@qq.com
 
 <!---
