@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WongLokhei
+- 👋 Hi, I’m @WongLokhei，a computer science abecedarian.
 - 👀 I’m interested in computer science,finance and economics.
 - 🌱 I’m currently learning CSAPP,data structure and computer networking.
 - 📫 How to reach me:473491890@qq.com
